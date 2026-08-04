@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.log
+
+# arquivos temporários de preview gerados durante o desenvolvimento
+_preview-*.html
