@@ -488,7 +488,7 @@ body::before{
 }
 
 /* ---------- Footer ---------- */
-.site-footer{ background:var(--ink); color:rgba(234,245,242,.72); padding:clamp(3rem,6vw,4.5rem) 0 2rem; }
+.site-footer{ background:var(--ink); color:rgba(234,245,242,.72); padding:clamp(3rem,6vw,4.5rem) 0 6rem; } /* espaço p/ o WhatsApp flutuante */
 .footer-grid{
   display:grid; grid-template-columns:1.3fr 1.05fr .95fr .9fr; gap:clamp(1.75rem,4vw,3rem);
   padding-bottom:2.5rem; border-bottom:1px solid rgba(197,255,188,.14);
